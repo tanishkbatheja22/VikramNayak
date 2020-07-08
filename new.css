@@ -94,6 +94,7 @@ body{
             text-align: center;
             font-weight: bold;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		font-color: #ffff00;
         }
 .banner_image{
    display: flex;
